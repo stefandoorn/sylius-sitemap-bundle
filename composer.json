@@ -5,6 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.1",
+        "setono/doctrine-orm-batcher-bundle": "^0.2.0",
         "sylius/sylius": "^1.0"
     },
     "require-dev": {
